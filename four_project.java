@@ -36,6 +36,6 @@ public class four_project {
         System.out.println("Pessoa 02: " + nome2 + " | Idade: " + idade2 + " | Saldo: " + saldo2);
         System.out.println("Sexo informado: " + sexo);
 
-        leia.close(); // Boa prática: fechar o Scanner ao final
+        leia.close();
     }
 }
