@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class two_project {
+public class second_project {
 public static void main (String[] args){
     Locale.setDefault(Locale.US);
 

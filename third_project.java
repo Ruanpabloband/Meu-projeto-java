@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class three_project {
+public class third_project {
     public static void main (String[] args){
         Locale.setDefault(Locale.US);
 int n1 = 10;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class four_project {
+public class fourth_project {
     public static void main(String[] args) {
 
         Scanner leia = new Scanner(System.in);

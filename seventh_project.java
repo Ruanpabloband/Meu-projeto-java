@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Seven_project {
+public class seventh_project {
 
     public static void main(String[] args) {
 
