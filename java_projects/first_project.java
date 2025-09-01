@@ -1,3 +1,5 @@
+package java_projects;
+
 public class first_project {
 public static void main (String[] args){
     System.out.println("Hello, world");

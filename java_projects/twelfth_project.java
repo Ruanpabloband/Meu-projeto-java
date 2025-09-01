@@ -1,3 +1,5 @@
+package java_projects;
+
 import java.util.Scanner;
 
 public class twelfth_project {
